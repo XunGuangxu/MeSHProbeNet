@@ -12,8 +12,11 @@
 ## Input data format
 
 Take `./toy_data/` as an example
-* train.tsv, validation.tsv
-* vocab_w.txt, vocab_j.txt, vocab_m.txt
+* train.tsv: the training dataset. Each line is a document.
+* validation.tsv
+* vocab_w.txt
+* vocab_j.txt
+* vocab_m.txt
 
 ## Run
 
