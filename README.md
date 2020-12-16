@@ -16,7 +16,7 @@ Take `./toy_data/` as an example.
 * train.tsv: The training set, where each line is a document. Each document is represented as `content word ids separated by spaces + '\t' + journal id + '\t' + MeSH ids separated by spaces`
 * validation.tsv: The validation set in the same format as `train.tsv`
 * vocab_w.txt: The vocabulary file for context words, where each line is `content word id + '\t' + content word`
-* vocab_j.txt: The vocabulary file for journal names, where each line is `journal id + '\t' + journal`
+* vocab_j.txt: The vocabulary file for journal names, where each line is `journal id + '\t' + journal name`
 * vocab_m.txt: The vocabulary file for MeSH terms, where each line is `MeSH id + '\t' + MeSH term`
 
 Validation is optional. Vocabulary id 0 is reserved for the padding token.
