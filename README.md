@@ -35,5 +35,5 @@ python main_train.py \
   --tgt_vocab_pt ./toy_data/vocab_m.txt \
   --expt_path ./toy_data/save \
   --learning_rate 0.0025 \
-  --weight_decay 0.0
+  --weight_decay 1e-10
 ```
