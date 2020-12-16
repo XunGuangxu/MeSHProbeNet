@@ -1,0 +1,1000 @@
+1	PloS one
+2	The Journal of biological chemistry
+3	Proceedings of the National Academy of Sciences of the United States of America
+4	Biochemical and biophysical research communications
+5	Biochimica et biophysica acta
+6	Journal of immunology (Baltimore, Md. : 1950)
+7	Biochemistry
+8	Brain research
+9	Journal of bacteriology
+10	Journal of virology
+11	The American journal of physiology
+12	Cancer research
+13	The Biochemical journal
+14	Nucleic acids research
+15	FEBS letters
+16	Blood
+17	Bioorganic
+18	The Journal of neuroscience : the official journal of the Society for Neuroscience
+19	Science (New York, N.Y.)
+20	Neuroscience letters
+21	Infection and immunity
+22	European journal of pharmacology
+23	Cancer
+24	Journal of clinical microbiology
+25	The Journal of urology
+26	Endocrinology
+27	Applied and environmental microbiology
+28	Antimicrobial agents and chemotherapy
+29	Journal of the American Chemical Society
+30	The Journal of clinical endocrinology and metabolism
+31	Journal of agricultural and food chemistry
+32	Methods in molecular biology (Clifton, N.J.)
+33	The Annals of thoracic surgery
+34	Nature
+35	Journal of molecular biology
+36	European journal of biochemistry
+37	Circulation
+38	Molecular and cellular biology
+39	The Journal of pharmacology and experimental therapeutics
+40	The Journal of physiology
+41	Journal of medicinal chemistry
+42	The American journal of cardiology
+43	Radiology
+44	The Journal of clinical investigation
+45	Neuroscience
+46	American journal of obstetrics and gynecology
+47	Journal of chromatography. A
+48	International journal of cancer
+49	Journal of neurochemistry
+50	Biophysical journal
+51	Investigative ophthalmology
+52	Environmental science
+53	British journal of pharmacology
+54	Neurology
+55	The Journal of cell biology
+56	Gene
+57	Chest
+58	Life sciences
+59	Journal of applied physiology (Bethesda, Md. : 1985)
+60	The Journal of experimental medicine
+61	British journal of cancer
+62	Anticancer research
+63	The Journal of infectious diseases
+64	Conference proceedings : ... Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual Conference
+65	Analytical chemistry
+66	Pediatrics
+67	Fertility and sterility
+68	Virology
+69	The EMBO journal
+70	Journal of neurophysiology
+71	Oncogene
+72	Transplantation
+73	International journal of radiation oncology, biology, physics
+74	Vaccine
+75	Urology
+76	Chemical communications (Cambridge, England)
+77	Obstetrics and gynecology
+78	Analytical biochemistry
+79	Clinical orthopaedics and related research
+80	The Journal of comparative neurology
+81	Organic letters
+82	Chemosphere
+83	Biochemical pharmacology
+84	Mutation research
+85	Archives of biochemistry and biophysics
+86	Journal of dairy science
+87	Lancet (London, England)
+88	AJR. American journal of roentgenology
+89	Biomaterials
+90	Gan to kagaku ryoho. Cancer
+91	Cell
+92	Journal of pediatric surgery
+93	Journal of animal science
+94	Bioresource technology
+95	Journal of neurosurgery
+96	European journal of immunology
+97	Journal of the American College of Cardiology
+98	The Journal of organic chemistry
+99	The Journal of general virology
+100	The Science of the total environment
+101	The American journal of pathology
+102	Gastroenterology
+103	Spine
+104	Clinical cancer research : an official journal of the American Association for Cancer Research
+105	Journal of clinical oncology : official journal of the American Society of Clinical Oncology
+106	Diabetes
+107	Pharmacology, biochemistry, and behavior
+108	Journal of hazardous materials
+109	American journal of veterinary research
+110	Stroke
+111	Genetics
+112	Journal of pharmaceutical sciences
+113	Experimental brain research
+114	Plastic and reconstructive surgery
+115	The journal of physical chemistry. B
+116	Anesthesia and analgesia
+117	British journal of haematology
+118	Psychopharmacology
+119	The Journal of thoracic and cardiovascular surgery
+120	Journal of cell science
+121	Developmental biology
+122	Journal of biochemistry
+123	Langmuir : the ACS journal of surfaces and colloids
+124	The American journal of clinical nutrition
+125	The Journal of the Acoustical Society of America
+126	The Journal of nutrition
+127	Clinical and experimental immunology
+128	The Laryngoscope
+129	Leukemia
+130	Scientific reports
+131	Development (Cambridge, England)
+132	Optics express
+133	JAMA
+134	The Journal of pediatrics
+135	NeuroImage
+136	World journal of gastroenterology
+137	Neurosurgery
+138	Social science
+139	Neuroreport
+140	Physiology
+141	Human reproduction (Oxford, England)
+142	Carcinogenesis
+143	The Journal of rheumatology
+144	American journal of ophthalmology
+145	Spectrochimica acta. Part A, Molecular and biomolecular spectroscopy
+146	Annals of the New York Academy of Sciences
+147	American journal of surgery
+148	Medical physics
+149	Transplantation proceedings
+150	Clinical chemistry
+151	Cancer letters
+152	Water science and technology : a journal of the International Association on Water Pollution Research
+153	Molecular microbiology
+154	Biology of reproduction
+155	American heart journal
+156	Experimental cell research
+157	Arthritis and rheumatism
+158	The American journal of tropical medicine and hygiene
+159	Digestive diseases and sciences
+160	Poultry science
+161	Clinica chimica acta; international journal of clinical chemistry
+162	FEMS microbiology letters
+163	Molecular
+164	Hepatology (Baltimore, Md.)
+165	Ophthalmology
+166	Kidney international
+167	The Journal of investigative dermatology
+168	Perceptual and motor skills
+169	American journal of public health
+170	Zhonghua yi xue za zhi
+171	The Journal of trauma
+172	Hypertension (Dallas, Tex. : 1979)
+173	The British journal of dermatology
+174	Journal of nuclear medicine : official publication, Society of Nuclear Medicine
+175	Journal of clinical pathology
+176	Atherosclerosis
+177	Journal of immunological methods
+178	The American journal of gastroenterology
+179	The Journal of antimicrobial chemotherapy
+180	Bioinformatics (Oxford, England)
+181	Cell and tissue research
+182	Biulleten' eksperimental'noi biologii i meditsiny
+183	The European journal of neuroscience
+184	Physics in medicine and biology
+185	Gut
+186	Journal of neurology, neurosurgery, and psychiatry
+187	Critical care medicine
+188	Journal of cellular physiology
+189	Surgery
+190	Studies in health technology and informatics
+191	Gynecologic oncology
+192	Journal of cardiovascular pharmacology
+193	The New England journal of medicine
+194	Arzneimittel-Forschung
+195	Electrophoresis
+196	Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica
+197	Journal of vascular surgery
+198	Circulation research
+199	Diabetes care
+200	Southern medical journal
+201	Immunology
+202	The Journal of surgical research
+203	International journal of pharmaceutics
+204	Journal of the American Veterinary Medical Association
+205	Journal of lipid research
+206	Clinical infectious diseases : an official publication of the Infectious Diseases Society of America
+207	Journal of the neurological sciences
+208	Journal of pharmaceutical and biomedical analysis
+209	Bioscience, biotechnology, and biochemistry
+210	Behavioural brain research
+211	American journal of epidemiology
+212	Molecular pharmacology
+213	Medical hypotheses
+214	Physical review. E, Statistical, nonlinear, and soft matter physics
+215	Magnetic resonance in medicine
+216	Archives of internal medicine
+217	International journal of cardiology
+218	Pediatric research
+219	Annals of surgery
+220	American journal of clinical pathology
+221	Journal of the National Cancer Institute
+222	The American journal of psychiatry
+223	Psychiatry research
+224	Metabolism: clinical and experimental
+225	Plant physiology
+226	BMC genomics
+227	The British journal of surgery
+228	Journal of chromatography
+229	American journal of physiology. Heart and circulatory physiology
+230	South African medical journal = Suid-Afrikaanse tydskrif vir geneeskunde
+231	Anesthesiology
+232	The British journal of ophthalmology
+233	British journal of anaesthesia
+234	The Journal of allergy and clinical immunology
+235	Archives of physical medicine and rehabilitation
+236	BMC public health
+237	Journal of ethnopharmacology
+238	Thrombosis and haemostasis
+239	AJNR. American journal of neuroradiology
+240	Chinese medical journal
+241	Molecular and cellular biochemistry
+242	Vision research
+243	American journal of respiratory and critical care medicine
+244	The Journal of endocrinology
+245	Water research
+246	Applied microbiology and biotechnology
+247	Toxicology and applied pharmacology
+248	Surgical endoscopy
+249	Pflugers Archiv : European journal of physiology
+250	The American journal of medicine
+251	Ugeskrift for laeger
+252	Journal of natural products
+253	Human molecular genetics
+254	Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association
+255	Journal of neuroscience research
+256	The British journal of nutrition
+257	Proceedings. Biological sciences
+258	The Journal of experimental biology
+259	Journal of theoretical biology
+260	Carbohydrate research
+261	Human genetics
+262	Journal of the American Academy of Dermatology
+263	BMJ case reports
+264	Journal of the Medical Association of Thailand = Chotmaihet thangphaet
+265	Biological
+266	Journal of biomechanics
+267	Archives of disease in childhood
+268	Archives of virology
+269	The Medical journal of Australia
+270	Organic
+271	Biosensors
+272	Molecular biology of the cell
+273	Oncology reports
+274	Peptides
+275	The Journal of bone and joint surgery. American volume
+276	Experimental neurology
+277	Veterinary parasitology
+278	American journal of human genetics
+279	Diabetologia
+280	European journal of cardio-thoracic surgery : official journal of the European Association for Cardio-thoracic Surgery
+281	FASEB journal : official publication of the Federation of American Societies for Experimental Biology
+282	Pacing and clinical electrophysiology : PACE
+283	Chemistry (Weinheim an der Bergstrasse, Germany)
+284	International journal of systematic and evolutionary microbiology
+285	Archives of ophthalmology (Chicago, Ill. : 1960)
+286	The Journal of laryngology and otology
+287	Chemical
+288	Neuropharmacology
+289	Annals of the rheumatic diseases
+290	European heart journal
+291	Nederlands tijdschrift voor geneeskunde
+292	Current biology : CB
+293	Genomics
+294	Annals of plastic surgery
+295	Scandinavian journal of gastroenterology
+296	Hepato-gastroenterology
+297	American journal of medical genetics
+298	The European respiratory journal
+299	Journal of chromatography. B, Analytical technologies in the biomedical and life sciences
+300	Annals of neurology
+301	The Journal of chemical physics
+302	Epilepsia
+303	European journal of cancer (Oxford, England : 1990)
+304	Analytical and bioanalytical chemistry
+305	Advances in experimental medicine and biology
+306	Parasitology research
+307	British journal of clinical pharmacology
+308	Journal of medical virology
+309	Environmental health perspectives
+310	The Journal of pharmacy and pharmacology
+311	Genes
+312	Diseases of the colon and rectum
+313	Human pathology
+314	Drug metabolism and disposition: the biological fate of chemicals
+315	Archives of surgery (Chicago, Ill. : 1960)
+316	Journal of cataract and refractive surgery
+317	Transfusion
+318	Thrombosis research
+319	Bone marrow transplantation
+320	Biological psychiatry
+321	AIDS (London, England)
+322	Toxicology letters
+323	Journal of the American Geriatrics Society
+324	The Journal of parasitology
+325	Microbiology (Reading, England)
+326	TheScientificWorldJournal
+327	The American surgeon
+328	Environmental monitoring and assessment
+329	Clinical endocrinology
+330	BMC bioinformatics
+331	Free radical biology
+332	Journal of affective disorders
+333	BioMed research international
+334	Food and chemical toxicology : an international journal published for the British Industrial Biological Research Association
+335	Medicine and science in sports and exercise
+336	Pain
+337	Journal of cellular biochemistry
+338	Alcoholism, clinical and experimental research
+339	Brain research bulletin
+340	European journal of clinical pharmacology
+341	Veterinary microbiology
+342	European journal of obstetrics, gynecology, and reproductive biology
+343	Journal of neuroscience methods
+344	Psychological reports
+345	Cancer chemotherapy and pharmacology
+346	Otolaryngology--head and neck surgery : official journal of American Academy of Otolaryngology-Head and Neck Surgery
+347	Molecular and cellular endocrinology
+348	Neuron
+349	Vestnik khirurgii imeni I. I. Grekova
+350	Huan jing ke xue= Huanjing kexue
+351	Asian Pacific journal of cancer prevention : APJCP
+352	Annals of internal medicine
+353	Physical chemistry chemical physics : PCCP
+354	Pharmaceutical research
+355	Cardiovascular research
+356	International journal of oncology
+357	Zhurnal mikrobiologii, epidemiologii, i immunobiologii
+358	Klinische Monatsblatter fur Augenheilkunde
+359	Journal of virological methods
+360	Deutsche medizinische Wochenschrift (1946)
+361	Acta oto-laryngologica
+362	Statistics in medicine
+363	General and comparative endocrinology
+364	The Analyst
+365	The Journal of prosthetic dentistry
+366	Internal medicine (Tokyo, Japan)
+367	Anaesthesia
+368	Food chemistry
+369	Molecules (Basel, Switzerland)
+370	The Journal of bone and joint surgery. British volume
+371	Arteriosclerosis, thrombosis, and vascular biology
+372	Archives of pathology
+373	Journal of dental research
+374	The American review of respiratory disease
+375	American journal of kidney diseases : the official journal of the National Kidney Foundation
+376	Canadian journal of physiology and pharmacology
+377	Toxicology
+378	The British journal of radiology
+379	Ying yong sheng tai xue bao = The journal of applied ecology
+380	Neurochemical research
+381	European journal of medicinal chemistry
+382	Inorganic chemistry
+383	Nature communications
+384	Journal of hypertension
+385	Acta neurochirurgica
+386	The Journal of veterinary medical science
+387	Naunyn-Schmiedeberg's archives of pharmacology
+388	The Journal of hand surgery
+389	RoFo : Fortschritte auf dem Gebiete der Rontgenstrahlen und der Nuklearmedizin
+390	The Journal of craniofacial surgery
+391	Journal of advanced nursing
+392	Neuropsychologia
+393	The Veterinary record
+394	Aviation, space, and environmental medicine
+395	The British journal of psychiatry : the journal of mental science
+396	Archives of neurology
+397	Terapevticheskii arkhiv
+398	Cellular immunology
+399	The Plant journal : for cell and molecular biology
+400	IEEE transactions on bio-medical engineering
+401	Biotechnology and bioengineering
+402	Breast cancer research and treatment
+403	The journal of histochemistry and cytochemistry : official journal of the Histochemistry Society
+404	BMC cancer
+405	Journal of periodontology
+406	Research in veterinary science
+407	Experientia
+408	Journal of neuroimmunology
+409	BMJ (Clinical research ed.)
+410	Acta paediatrica (Oslo, Norway : 1992)
+411	Biomacromolecules
+412	European journal of pediatrics
+413	Journal of bone and mineral research : the official journal of the American Society for Bone and Mineral Research
+414	Proteins
+415	Masui. The Japanese journal of anesthesiology
+416	Schweizerische medizinische Wochenschrift
+417	Thorax
+418	Genetika
+419	Annals of surgical oncology
+420	European urology
+421	Clinical nuclear medicine
+422	Forensic science international
+423	Muscle
+424	Journal of hepatology
+425	BJU international
+426	Clinical pharmacology and therapeutics
+427	Phytochemistry
+428	Zhonghua wai ke za zhi [Chinese journal of surgery]
+429	Bulletin of experimental biology and medicine
+430	Environmental pollution (Barking, Essex : 1987)
+431	Kyobu geka. The Japanese journal of thoracic surgery
+432	Acta anaesthesiologica Scandinavica
+433	International journal of food microbiology
+434	Brain : a journal of neurology
+435	Acta neuropathologica
+436	Perception
+437	The Journal of arthroplasty
+438	World journal of surgery
+439	Kardiologiia
+440	Journal of the American Society of Nephrology : JASN
+441	European radiology
+442	Journal of food protection
+443	The journal of physical chemistry. A
+444	Rapid communications in mass spectrometry : RCM
+445	Molecular ecology
+446	Scandinavian journal of immunology
+447	Bone
+448	Acta obstetricia et gynecologica Scandinavica
+449	Journal of oral and maxillofacial surgery : official journal of the American Association of Oral and Maxillofacial Surgeons
+450	Journal of nanoscience and nanotechnology
+451	Molecular immunology
+452	Talanta
+453	The Annals of otology, rhinology, and laryngology
+454	Protein science : a publication of the Protein Society
+455	Journal of magnetic resonance imaging : JMRI
+456	Tidsskrift for den Norske laegeforening : tidsskrift for praktisk medicin, ny raekke
+457	American journal of physiology. Regulatory, integrative and comparative physiology
+458	Journal of surgical oncology
+459	Radiation research
+460	Laboratory investigation; a journal of technical methods and pathology
+461	Annals of oncology : official journal of the European Society for Medical Oncology
+462	Journal of leukocyte biology
+463	The American journal of sports medicine
+464	Journal of medical microbiology
+465	Journal of applied microbiology
+466	International journal of pediatric otorhinolaryngology
+467	Clinical science (London, England : 1979)
+468	Toxicon : official journal of the International Society on Toxinology
+469	Cancer epidemiology, biomarkers
+470	Genetics and molecular research : GMR
+471	The American journal of surgical pathology
+472	Bulletin of the World Health Organization
+473	Pediatric radiology
+474	Applied biochemistry and biotechnology
+475	Journal of computer assisted tomography
+476	The Journal of antibiotics
+477	Cancer genetics and cytogenetics
+478	Archives des maladies du coeur et des vaisseaux
+479	The Pediatric infectious disease journal
+480	The Journal of general physiology
+481	Transactions of the Royal Society of Tropical Medicine and Hygiene
+482	Journal of forensic sciences
+483	The Southeast Asian journal of tropical medicine and public health
+484	Journal of proteome research
+485	Environmental science and pollution research international
+486	Molecular biology reports
+487	Canadian journal of microbiology
+488	Pharmacology
+489	Injury
+490	Experimental eye research
+491	Lipids
+492	Hinyokika kiyo. Acta urologica Japonica
+493	Hearing research
+494	PLoS genetics
+495	Graefe's archive for clinical and experimental ophthalmology = Albrecht von Graefes Archiv fur klinische und experimentelle Ophthalmologie
+496	Radiation protection dosimetry
+497	Drug and alcohol dependence
+498	International journal of gynaecology and obstetrics: the official organ of the International Federation of Gynaecology and Obstetrics
+499	Khirurgiia
+500	Plant molecular biology
+501	Chemico-biological interactions
+502	Annals of emergency medicine
+503	Experimental hematology
+504	Military medicine
+505	Molecular endocrinology (Baltimore, Md.)
+506	European journal of radiology
+507	Intensive care medicine
+508	Journal of biomedical materials research. Part A
+509	The Journal of clinical psychiatry
+510	Journal of molecular and cellular cardiology
+511	Leukemia research
+512	Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology
+513	Colloids and surfaces. B, Biointerfaces
+514	American journal of hematology
+515	Theriogenology
+516	The Journal of pathology
+517	Journal of neurology
+518	Clinical
+519	Avian diseases
+520	The Tohoku journal of experimental medicine
+521	Journal of reproduction and fertility
+522	Ecotoxicology and environmental safety
+523	Archives of oral biology
+524	Acta neurologica Scandinavica
+525	Brazilian journal of medical and biological research = Revista brasileira de pesquisas medicas e biologicas
+526	Schizophrenia research
+527	Environmental toxicology and chemistry
+528	Journal of orthopaedic research : official publication of the Orthopaedic Research Society
+529	The American journal of emergency medicine
+530	Medical care
+531	Movement disorders : official journal of the Movement Disorder Society
+532	The New Zealand medical journal
+533	Surgery today
+534	International journal of molecular sciences
+535	Postgraduate medical journal
+536	European journal of clinical microbiology
+537	Molecular biology and evolution
+538	The Journal of reproductive medicine
+539	Health physics
+540	Presse medicale (Paris, France : 1983)
+541	Journal of controlled release : official journal of the Controlled Release Society
+542	Molecular cell
+543	Journal of colloid and interface science
+544	Cornea
+545	Ultrasound in medicine
+546	Journal of gastroenterology and hepatology
+547	Proteomics
+548	American journal of hypertension
+549	Surgical neurology
+550	The Plant cell
+551	British medical journal
+552	Nan fang yi ke da xue xue bao = Journal of Southern Medical University
+553	Biological trace element research
+554	Emerging infectious diseases
+555	Die Pharmazie
+556	Journal of experimental botany
+557	Wiener klinische Wochenschrift
+558	Veterinary immunology and immunopathology
+559	Journal of biotechnology
+560	Neuroradiology
+561	Hormone and metabolic research = Hormon- und Stoffwechselforschung = Hormones et metabolisme
+562	Dalton transactions (Cambridge, England : 2003)
+563	Journal of pediatric gastroenterology and nutrition
+564	Guang pu xue yu guang pu fen xi = Guang pu
+565	Journal of endodontics
+566	MMWR. Morbidity and mortality weekly report
+567	Archives of dermatology
+568	Neurobiology of aging
+569	Zhurnal nevropatologii i psikhiatrii imeni S.S. Korsakova (Moscow, Russia : 1952)
+570	Acta cytologica
+571	Nature genetics
+572	Psychological medicine
+573	Acta psychiatrica Scandinavica
+574	Academic medicine : journal of the Association of American Medical Colleges
+575	Journal of cerebral blood flow and metabolism : official journal of the International Society of Cerebral Blood Flow and Metabolism
+576	Diabetic medicine : a journal of the British Diabetic Association
+577	Diagnostic microbiology and infectious disease
+578	Analytica chimica acta
+579	Diabetes research and clinical practice
+580	Molecular phylogenetics and evolution
+581	Nephron
+582	Clinical radiology
+583	American journal of medical genetics. Part A
+584	American journal of physical anthropology
+585	Nano letters
+586	American journal of orthodontics and dentofacial orthopedics : official publication of the American Association of Orthodontists, its constituent societies, and the American Board of Orthodontics
+587	Acta crystallographica. Section D, Biological crystallography
+588	Zootaxa
+589	Epidemiology and infection
+590	Voprosy onkologii
+591	International journal of biological macromolecules
+592	Scandinavian journal of infectious diseases
+593	Sleep
+594	Clinical nephrology
+595	Biofizika
+596	Tissue antigens
+597	Clinical genetics
+598	European archives of oto-rhino-laryngology : official journal of the European Federation of Oto-Rhino-Laryngological Societies (EUFOS) : affiliated with the German Society for Oto-Rhino-Laryngology - Head and Neck Surgery
+599	Marine pollution bulletin
+600	Acta physiologica Scandinavica
+601	Clinical and experimental pharmacology
+602	Prenatal diagnosis
+603	American journal of physiology. Cell physiology
+604	Gastrointestinal endoscopy
+605	International journal of molecular medicine
+606	Parasitology
+607	Zhonghua zhong liu za zhi [Chinese journal of oncology]
+608	Biochimie
+609	Journal of clinical psychology
+610	Journal of clinical pharmacology
+611	Alimentary pharmacology
+612	Clinical neurophysiology : official journal of the International Federation of Clinical Neurophysiology
+613	Chemical research in toxicology
+614	Allergy
+615	Current eye research
+616	Journal of economic entomology
+617	Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine
+618	Yao xue xue bao = Acta pharmaceutica Sinica
+619	Neuroendocrinology
+620	AIDS research and human retroviruses
+621	American journal of physiology. Endocrinology and metabolism
+622	Revista medica de Chile
+623	Oncotarget
+624	Pediatric nephrology (Berlin, Germany)
+625	Journal of medical genetics
+626	Head
+627	American journal of respiratory cell and molecular biology
+628	The Journal of laboratory and clinical medicine
+629	American journal of physiology. Renal physiology
+630	International journal of epidemiology
+631	PLoS pathogens
+632	Tsitologiia
+633	Bioconjugate chemistry
+634	Toxicological sciences : an official journal of the Society of Toxicology
+635	Archives of otolaryngology--head
+636	Arthroscopy : the journal of arthroscopic
+637	Journal of Korean medical science
+638	Catheterization and cardiovascular interventions : official journal of the Society for Cardiac Angiography
+639	Journal of biomedical materials research
+640	European journal of clinical nutrition
+641	Protein expression and purification
+642	Molecular and biochemical parasitology
+643	Journal of clinical neuroscience : official journal of the Neurosurgical Society of Australasia
+644	The Journal of membrane biology
+645	Journal of wildlife diseases
+646	Journal of visualized experiments : JoVE
+647	La Radiologia medica
+648	Journal of cancer research and clinical oncology
+649	British journal of urology
+650	Steroids
+651	Immunology letters
+652	Archives of general psychiatry
+653	Journal of environmental management
+654	Minerva medica
+655	Virus research
+656	Calcified tissue international
+657	Journal of inorganic biochemistry
+658	Electroencephalography and clinical neurophysiology
+659	Journal of personality and social psychology
+660	Contraception
+661	Neuropsychopharmacology : official publication of the American College of Neuropsychopharmacology
+662	Biokhimiia (Moscow, Russia)
+663	Histopathology
+664	Magnetic resonance imaging
+665	Investigative radiology
+666	ACS nano
+667	Journal of acquired immune deficiency syndromes (1999)
+668	European journal of endocrinology
+669	Acta endocrinologica
+670	Journal of neuro-oncology
+671	Journal of anatomy
+672	Arquivos de neuro-psiquiatria
+673	Journal of strength and conditioning research
+674	Brain research. Molecular brain research
+675	Clinical rheumatology
+676	Angiology
+677	Clinical biochemistry
+678	Medicina clinica
+679	Indian journal of experimental biology
+680	Microbiology and immunology
+681	Urologia internationalis
+682	Journal of endocrinological investigation
+683	Physical review letters
+684	Addictive behaviors
+685	The Journal of nervous and mental disease
+686	Tumour biology : the journal of the International Society for Oncodevelopmental Biology and Medicine
+687	Respiratory medicine
+688	Journal of pediatric orthopedics
+689	The Journal of heart and lung transplantation : the official publication of the International Society for Heart Transplantation
+690	The FEBS journal
+691	Japanese journal of pharmacology
+692	Zentralblatt fur Chirurgie
+693	Medical science monitor : international medical journal of experimental and clinical research
+694	Archives of gynecology and obstetrics
+695	Journal of clinical periodontology
+696	The Journal of steroid biochemistry and molecular biology
+697	Accident; analysis and prevention
+698	International orthopaedics
+699	European journal of applied physiology
+700	Journal of medical entomology
+701	Modern pathology : an official journal of the United States and Canadian Academy of Pathology, Inc
+702	Preventive medicine
+703	International urology and nephrology
+704	The Prostate
+705	Zhonghua liu xing bing xue za zhi = Zhonghua liuxingbingxue zazhi
+706	Developmental dynamics : an official publication of the American Association of Anatomists
+707	Artificial organs
+708	Haematologica
+709	Chemistry
+710	British journal of obstetrics and gynaecology
+711	Zentralblatt fur Gynakologie
+712	European journal of clinical investigation
+713	American journal of physiology. Gastrointestinal and liver physiology
+714	No shinkei geka. Neurological surgery
+715	Journal of clinical gastroenterology
+716	Evolution; international journal of organic evolution
+717	Experimental parasitology
+718	Applied microbiology
+719	Oral surgery, oral medicine, oral pathology, oral radiology, and endodontics
+720	Journal of general microbiology
+721	Zhong yao cai = Zhongyaocai = Journal of Chinese medicinal materials
+722	PLoS computational biology
+723	Oecologia
+724	Cerebral cortex (New York, N.Y. : 1991)
+725	Journal of endourology
+726	Planta medica
+727	Acta radiologica (Stockholm, Sweden : 1987)
+728	Journal of ultrasound in medicine : official journal of the American Institute of Ultrasound in Medicine
+729	Clinical and experimental allergy : journal of the British Society for Allergy and Clinical Immunology
+730	Oral surgery, oral medicine, and oral pathology
+731	Memorias do Instituto Oswaldo Cruz
+732	Orthopedics
+733	Human immunology
+734	ACS applied materials
+735	Molecular medicine reports
+736	Annals of vascular surgery
+737	European spine journal : official publication of the European Spine Society, the European Spinal Deformity Society, and the European Section of the Cervical Spine Research Society
+738	Cytokine
+739	Planta
+740	Acta dermato-venereologica
+741	Journal of general internal medicine
+742	American journal of transplantation : official journal of the American Society of Transplantation and the American Society of Transplant Surgeons
+743	The Journal of cardiovascular surgery
+744	Progress in neuro-psychopharmacology
+745	The Anatomical record
+746	BMC infectious diseases
+747	Annals of the Royal College of Surgeons of England
+748	Eye (London, England)
+749	Arkhiv patologii
+750	Journal of epidemiology and community health
+751	Orvosi hetilap
+752	Singapore medical journal
+753	Letters in applied microbiology
+754	Foot
+755	Regulatory peptides
+756	BMC health services research
+757	Circulation journal : official journal of the Japanese Circulation Society
+758	Resuscitation
+759	Methods in enzymology
+760	The American journal of the medical sciences
+761	International immunology
+762	Biopolymers
+763	Clinical therapeutics
+764	Xenobiotica; the fate of foreign compounds in biological systems
+765	Scandinavian journal of clinical and laboratory investigation
+766	Developmental medicine and child neurology
+767	British heart journal
+768	Rinsho shinkeigaku = Clinical neurology
+769	Environmental research
+770	Phytotherapy research : PTR
+771	Archives of orthopaedic and trauma surgery
+772	Archives of toxicology
+773	Journal of separation science
+774	American journal of physiology. Lung cellular and molecular physiology
+775	American journal of industrial medicine
+776	Cardiovascular and interventional radiology
+777	Journal of clinical epidemiology
+778	Journal of the American Society of Echocardiography : official publication of the American Society of Echocardiography
+779	Cell cycle (Georgetown, Tex.)
+780	Journal of the American Dietetic Association
+781	International journal of sports medicine
+782	Biotechnology letters
+783	Rheumatology international
+784	Pathology, research and practice
+785	Angewandte Chemie (International ed. in English)
+786	Osteoporosis international : a journal established as result of cooperation between the European Foundation for Osteoporosis and the National Osteoporosis Foundation of the USA
+787	Journal of biomedical optics
+788	Lab on a chip
+789	Heart (British Cardiac Society)
+790	Human mutation
+791	Biometrics
+792	Journal of child neurology
+793	Child's nervous system : ChNS : official journal of the International Society for Pediatric Neurosurgery
+794	Skeletal radiology
+795	The Japanese journal of antibiotics
+796	Pediatric blood
+797	International journal of oral and maxillofacial surgery
+798	The Journal of emergency medicine
+799	Diagnostic cytopathology
+800	Acta ophthalmologica
+801	Acta biomaterialia
+802	Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA
+803	Oncology
+804	Nuclear medicine communications
+805	Behavioral neuroscience
+806	Journal of the Formosan Medical Association = Taiwan yi zhi
+807	Surgery, gynecology
+808	Current medical research and opinion
+809	Journal of molecular evolution
+810	JPMA. The Journal of the Pakistan Medical Association
+811	Journal of vascular and interventional radiology : JVIR
+812	Carbohydrate polymers
+813	Archives of microbiology
+814	Prostaglandins
+815	Current microbiology
+816	Der Hautarzt; Zeitschrift fur Dermatologie, Venerologie, und verwandte Gebiete
+817	Proceedings of the Society for Experimental Biology and Medicine. Society for Experimental Biology and Medicine (New York, N.Y.)
+818	European journal of surgical oncology : the journal of the European Society of Surgical Oncology and the British Association of Surgical Oncology
+819	Journal of clinical nursing
+820	Journal of oral rehabilitation
+821	Zeitschrift fur Kardiologie
+822	Archives of environmental contamination and toxicology
+823	Molecular reproduction and development
+824	Canadian journal of anaesthesia = Journal canadien d'anesthesie
+825	The International journal of neuroscience
+826	European journal of gastroenterology
+827	Pediatric neurology
+828	Przeglad lekarski
+829	The international journal of tuberculosis and lung disease : the official journal of the International Union against Tuberculosis and Lung Disease
+830	Rheumatology (Oxford, England)
+831	American journal of preventive medicine
+832	Sheng wu yi xue gong cheng xue za zhi = Journal of biomedical engineering = Shengwu yixue gongchengxue zazhi
+833	Zhongguo xiu fu chong jian wai ke za zhi = Zhongguo xiufu chongjian waike zazhi = Chinese journal of reparative and reconstructive surgery
+834	Journal of the National Medical Association
+835	Endoscopy
+836	Cancer immunology, immunotherapy : CII
+837	Pancreas
+838	Cadernos de saude publica
+839	Genome research
+840	Annals of biomedical engineering
+841	PLoS neglected tropical diseases
+842	Medicine
+843	Molecular cancer therapeutics
+844	Ultrasound in obstetrics
+845	Applied radiation and isotopes : including data, instrumentation and methods for use in agriculture, industry and medicine
+846	International journal of dermatology
+847	Malaria journal
+848	The Journal of hospital infection
+849	Zhongguo shi yan xue ye xue za zhi
+850	Annals of the Academy of Medicine, Singapore
+851	Pediatric cardiology
+852	Journal francais d'ophtalmologie
+853	Pediatric pulmonology
+854	Revista de neurologia
+855	Saudi medical journal
+856	Research communications in chemical pathology and pharmacology
+857	Retina (Philadelphia, Pa.)
+858	Clinical cardiology
+859	Lung cancer (Amsterdam, Netherlands)
+860	Obesity (Silver Spring, Md.)
+861	TAG. Theoretical and applied genetics. Theoretische und angewandte Genetik
+862	Der Chirurg; Zeitschrift fur alle Gebiete der operativen Medizen
+863	Voprosy meditsinskoi khimii
+864	Mechanisms of ageing and development
+865	International immunopharmacology
+866	RNA (New York, N.Y.)
+867	Infection control and hospital epidemiology
+868	Gene therapy
+869	Journal of the American College of Surgeons
+870	Pediatric surgery international
+871	Burns : journal of the International Society for Burn Injuries
+872	Psychiatric services (Washington, D.C.)
+873	Obesity surgery
+874	Journal of environmental sciences (China)
+875	Biophysical chemistry
+876	HNO
+877	Zhurnal vysshei nervnoi deiatelnosti imeni I P Pavlova
+878	International journal for parasitology
+879	Acta tropica
+880	Journal of gastrointestinal surgery : official journal of the Society for Surgery of the Alimentary Tract
+881	Photochemistry and photobiology
+882	Acta orthopaedica Scandinavica
+883	Japanese journal of cancer research : Gann
+884	Cellular signalling
+885	Minerva chirurgica
+886	Collegium antropologicum
+887	Vox sanguinis
+888	American journal of clinical oncology
+889	Mayo Clinic proceedings
+890	Shock (Augusta, Ga.)
+891	Stem cells (Dayton, Ohio)
+892	Pathologie-biologie
+893	Harefuah
+894	Journal of the American Dental Association (1939)
+895	Journal of biomechanical engineering
+896	The Journal of international medical research
+897	Journal of microbiological methods
+898	Medical education
+899	Journal of cardiovascular electrophysiology
+900	Infection
+901	The Journal of adolescent health : official publication of the Society for Adolescent Medicine
+902	Gynecologic and obstetric investigation
+903	International journal of radiation biology
+904	Canadian Medical Association journal
+905	Natural product research
+906	Respiration; international review of thoracic diseases
+907	Brain research. Developmental brain research
+908	Japanese circulation journal
+909	Nanoscale
+910	British dental journal
+911	International journal of STD
+912	European journal of vascular and endovascular surgery : the official journal of the European Society for Vascular Surgery
+913	Neurochemistry international
+914	Optometry and vision science : official publication of the American Academy of Optometry
+915	The New phytologist
+916	Journal of psychosomatic research
+917	BioTechniques
+918	Journal of the American Academy of Child and Adolescent Psychiatry
+919	Dermatologic surgery : official publication for American Society for Dermatologic Surgery [et al.]
+920	Likars'ka sprava
+921	Tumori
+922	International journal of environmental research and public health
+923	Nature neuroscience
+924	Health affairs (Project Hope)
+925	Archives de pediatrie : organe officiel de la Societe francaise de pediatrie
+926	Australian family physician
+927	Sexually transmitted diseases
+928	Disability and rehabilitation
+929	Sensors (Basel, Switzerland)
+930	Plant
+931	Archives of pharmacal research
+932	Veterinary pathology
+933	The journal of maternal-fetal
+934	International archives of allergy and applied immunology
+935	European journal of human genetics : EJHG
+936	Journal of materials science. Materials in medicine
+937	Der Anaesthesist
+938	Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer
+939	Clinical chemistry and laboratory medicine
+940	The Annals of pharmacotherapy
+941	Waste management (New York, N.Y.)
+942	Patient education and counseling
+943	International archives of allergy and immunology
+944	European journal of gynaecological oncology
+945	Neuroscience research
+946	Journal of experimental psychology. Human perception and performance
+947	Environmental microbiology
+948	European journal of cell biology
+949	APMIS : acta pathologica, microbiologica, et immunologica Scandinavica
+950	Structure (London, England : 1993)
+951	Neurologia medico-chirurgica
+952	Child development
+953	The journals of gerontology. Series A, Biological sciences and medical sciences
+954	The Thoracic and cardiovascular surgeon
+955	Academic emergency medicine : official journal of the Society for Academic Emergency Medicine
+956	Journal of food science
+957	Therapeutic drug monitoring
+958	AMIA ... Annual Symposium proceedings. AMIA Symposium
+959	Journal de gynecologie, obstetrique et biologie de la reproduction
+960	Ginekologia polska
+961	Transplant international : official journal of the European Society for Organ Transplantation
+962	Biomedical chromatography : BMC
+963	Addiction (Abingdon, England)
+964	Placenta
+965	International journal of urology : official journal of the Japanese Urological Association
+966	Molekuliarnaia biologiia
+967	Fish
+968	Molecular vision
+969	Physical therapy
+970	Australian veterinary journal
+971	[Zhonghua yan ke za zhi] Chinese journal of ophthalmology
+972	The Australian and New Zealand journal of surgery
+973	Nature medicine
+974	Zhonghua fu chan ke za zhi
+975	Japanese journal of clinical oncology
+976	The Journal of the Association of Physicians of India
+977	Appetite
+978	American journal of diseases of children (1960)
+979	European journal of haematology
+980	Clinical neurology and neurosurgery
+981	Epilepsy research
+982	Glia
+983	Acta oncologica (Stockholm, Sweden)
+984	Zhurnal nevrologii i psikhiatrii imeni S.S. Korsakova
+985	Immunogenetics
+986	Klinicheskaia meditsina
+987	Cutis
+988	International journal of clinical and experimental pathology
+989	East African medical journal
+990	Journal of magnetic resonance (San Diego, Calif. : 1997)
+991	Journal of oral pathology
+992	The Journal of dermatology
+993	Arquivos brasileiros de cardiologia
+994	The Journal of infection
+995	European journal of applied physiology and occupational physiology
+996	Molecular therapy : the journal of the American Society of Gene Therapy
+997	Comparative biochemistry and physiology. Part A, Molecular
+998	Indian journal of pediatrics
+999	Journal of cutaneous pathology
+1000	Clinical and experimental dermatology
