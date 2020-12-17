@@ -82,7 +82,7 @@ def main():
                         type=float,
                         help='The learning rate for Adam.')
     parser.add_argument('--weight_decay',
-                        default=1e-10,
+                        default=5e-10,
                         type=float,
                         help='The weight decay.')
     parser.add_argument('--do_eval',
